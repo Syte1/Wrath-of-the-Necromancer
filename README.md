@@ -9,6 +9,9 @@ tryanny.
 
 ![ScreenShot](/necromancer.png)
 
+Gameplay Video:
+https://www.youtube.com/watch?v=qHwKfwtbcjY
+
 When designing the game I really wanted to make something
 that only had the good aspects of other games in it.
 I've played many rpgs and stuff in the past and there are
