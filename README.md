@@ -1,5 +1,12 @@
 # Wrath of the Necromancer
 
+A MUD-type game that focuses on an adventurer seeking to avenge
+their village after the atrocities commited by the necromancer
+of the land. You will start weak, explore the wilderness,
+fight various enemies, level up, explore new areas, and collect
+useful doodads along the way. Find the necromancer and end his
+tryanny.
+
 When designing the game I really wanted to make something
 that only had the good aspects of other games in it.
 I've played many rpgs and stuff in the past and there are
